@@ -2,12 +2,17 @@
 Developed for specific work. More improvement will be done in future.
 
 ## very brief tutorial:
- must be run from command prompt or powershell.
- syntax format: thumbnail_generator.exe --[options]
+ must be run from command prompt or powershell.<br>
+ syntax format: thumbnail_generator.exe --[options]<br>
               There are two options:
-                option1: fix
+              <ul>
+                <li>
+                option1: fix <br>
                     This option tries to fix the text formatting of slides as much as possible.
-                option2: export
+                 </li>
+                <li>
+                option2: export <br>
                     This option exports all the presentation files to images by folder
-              
+               </li>
+              </ul>
               Sample execution: thumbnail_generator.exe --export
