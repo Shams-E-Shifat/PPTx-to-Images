@@ -3,15 +3,15 @@ Developed for specific work. More improvement will be done in future.
 
 ## very brief tutorial:
  must be run from command prompt or powershell.<br>
- syntax format: <br><p>thumbnail_generator.exe --[options]</p><br>
+ syntax format: <br><p>`thumbnail_generator.exe --[options]`</p><br>
               There are two options:
               <ul>
                 <li>
-                option1: fix <br>
+                option1: `fix` <br>
                     This option tries to fix the text formatting of slides as much as possible.
                  </li>
                 <li>
-                option2: export <br>
+                option2: `export` <br>
                     This option exports all the presentation files to images by folder
                </li>
               </ul>
