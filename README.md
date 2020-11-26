@@ -9,7 +9,7 @@ Developed for specific work. More improvement will be done in future.
                 <li>
                 command1: `fix` <br>
                     This option tries to fix the text formatting of slides as much as possible.<br>
-                    (Not stable right now)
+                    (Can successfully change all english fonts of a pptx file. but no luck with bangla fonts)
                  </li>
                 <li>
                 command2: `export` <br>
