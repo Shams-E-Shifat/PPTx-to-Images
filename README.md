@@ -8,11 +8,13 @@ Developed for specific work. More improvement will be done in future.
               <ul>
                 <li>
                 option1: `fix` <br>
-                    This option tries to fix the text formatting of slides as much as possible.
+                    This option tries to fix the text formatting of slides as much as possible.<br>
+                    (Not stable right now)
                  </li>
                 <li>
                 option2: `export` <br>
                     This option exports all the presentation files to images by folder
+                 (Stable and works fine)
                </li>
               </ul>
               Sample execution: `thumbnail_generator.exe --export`
