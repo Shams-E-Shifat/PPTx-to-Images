@@ -3,7 +3,7 @@ Developed for specific work. More improvement will be done in future.
 
 ## very brief tutorial:
  must be run from command prompt or powershell.<br>
- syntax format: <br><p>`thumbnail_generator.exe <command>`</p><br>
+ syntax format: <br><p>`thumbnail_generator_v2.exe <command>`</p><br>
               There are two commands:
               <ul>
                 <li>
