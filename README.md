@@ -13,8 +13,9 @@ Developed for specific work. More improvement will be done in future.
                  </li>
                 <li>
                 option2: `export` <br>
-                    This option exports all the presentation files to images by folder
-                 (Stable and works fine)
+                    This option exports all the presentation files of a specific folder to images and creates one folder per presentation that contatins all the exported images.
+                 <br>Currently user can choose between jpeg or png format.
+                <br>(Stable and works fine)
                </li>
               </ul>
               Sample execution: `thumbnail_generator.exe --export`
