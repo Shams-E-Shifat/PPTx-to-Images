@@ -1,21 +1,21 @@
-# thumbnail_generator_V1
+# thumbnail_generator_V2
 Developed for specific work. More improvement will be done in future.
 
 ## very brief tutorial:
  must be run from command prompt or powershell.<br>
- syntax format: <br><p>`thumbnail_generator.exe --[option]`</p><br>
-              There are two options:
+ syntax format: <br><p>`thumbnail_generator.exe <command>`</p><br>
+              There are two commands:
               <ul>
                 <li>
-                option1: `fix` <br>
+                command1: `fix` <br>
                     This option tries to fix the text formatting of slides as much as possible.<br>
                     (Not stable right now)
                  </li>
                 <li>
-                option2: `export` <br>
+                command2: `export` <br>
                     This option exports all the presentation files of a specific folder to images and creates one folder per presentation that contatins all the exported images.
                  <br>Currently user can choose between jpeg or png format.
                 <br>(Stable and works fine)
                </li>
               </ul>
-              Sample execution: `thumbnail_generator.exe --export`
+              Sample execution: `thumbnail_generator_v2.exe export`
